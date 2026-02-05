@@ -1,5 +1,6 @@
 🎓 TaLu — AI Prototype for University & Career Guidance
 📌 Project Overview
+<img width="1680" height="864" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/4e3c43a8-cec4-4faf-b7dc-e95fb440cc67" />
 
 TaLu is an AI-powered prototype designed to help South African high school learners make informed decisions about university applications and career paths. Many learners struggle to understand which universities they qualify for due to limited access to school counsellors, leading to late or incorrect applications and missed opportunities.
 
